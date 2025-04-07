@@ -408,4 +408,4 @@ export const TablaRegistros: React.FC<TablaRegistrosProps> = ({ registros }) => 
       </div>
     </div>
   );
-};
+}; 
